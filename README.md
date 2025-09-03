@@ -1,6 +1,8 @@
-# Neurosymbolic Explainable Concept Drift
+# Explaining Concept Drift via Neuro-Symbolic Rules
 
-This repository contains code for generating neuro-symbolic explanations to analyze and interpret concept drift in machine learning models.
+This repository contains code of the paper *"Explaining Concept Drift via Neuro-Symbolic Rules"* accepted at the TRUST-AI workshop, organized as part of the European Conference on artificial intelligence (ECAI 2025).
+
+This project investigates the use of neuro-symbolic explanations to analyze and interpret concept drift in machine learning models.
 
 ## Tasks
 
