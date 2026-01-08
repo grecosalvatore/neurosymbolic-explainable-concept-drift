@@ -55,7 +55,19 @@ This step is done by the [6_train_concepts_naming.ipynb](./6_train_concepts_nami
 If you find this work useful or use this repo, please cite the following paper:
 
 ```bibtex
-
+@inproceedings{basci2025explaining,
+  title={Explaining Concept Drift via Neuro-Symbolic Rules},
+  author={Basci, Pietro and Greco, Salvatore and Manigrasso, Francesco and 
+          Cerquitelli, Tania and Morra, Lia},
+  booktitle={Proceedings of TRUST-AI: The European Workshop on Trustworthy AI, 
+             ECAI 2025},
+  series={CEUR Workshop Proceedings},
+  volume={4132},
+  year={2025},
+  month={October},
+  address={Bologna, Italy},
+  url={http://ceur-ws.org/Vol-4132/short54.pdf}
+}
 ```
 
 ## Authors
